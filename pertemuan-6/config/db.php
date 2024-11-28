@@ -3,7 +3,7 @@
 $DBHOST = 'localhost';
 $DBUSER = 'root';
 $DBPASSWORD = '';
-$DBNAME = 'pemoweb_database';
+$DBNAME = 'pemweb-db';
 $PORT = '3307';
 
 
